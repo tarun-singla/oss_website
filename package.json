@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yashaswi2000/oss_website/issues"
   },
-  "homepage": "https://github.com/yashaswi2000/oss_website#readme"
+  "homepage": "https://github.com/yashaswi2000/oss_website#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
